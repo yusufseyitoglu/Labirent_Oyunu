@@ -1,0 +1,6 @@
+C:\Users\Yusa\source\repos\bulmacaOyunu\bulmacaOyunu\bin\Debug\bulmacaOyunu.exe.config
+C:\Users\Yusa\source\repos\bulmacaOyunu\bulmacaOyunu\bin\Debug\bulmacaOyunu.exe
+C:\Users\Yusa\source\repos\bulmacaOyunu\bulmacaOyunu\bin\Debug\bulmacaOyunu.pdb
+C:\Users\Yusa\source\repos\bulmacaOyunu\bulmacaOyunu\obj\Debug\bulmacaOyunu.csprojAssemblyReference.cache
+C:\Users\Yusa\source\repos\bulmacaOyunu\bulmacaOyunu\obj\Debug\bulmacaOyunu.exe
+C:\Users\Yusa\source\repos\bulmacaOyunu\bulmacaOyunu\obj\Debug\bulmacaOyunu.pdb

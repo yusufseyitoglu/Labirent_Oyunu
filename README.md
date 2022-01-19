@@ -1,2 +1,2 @@
 # LabirentOyunu
-c# ile labirent oyunu
+C# ile labirent oyunu
